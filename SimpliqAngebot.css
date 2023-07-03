@@ -107,7 +107,7 @@ td>span {
 }
 
 .styled-table tbody tr:nth-of-type(even) {
-    background-color: red;
+    background-color: red !important;
 }
 
 .styled-table tbody tr:last-of-type {

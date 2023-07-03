@@ -1,3 +1,4 @@
+/*
 @page  {
     margin: 60;
 }
@@ -30,6 +31,7 @@
     font-weight: bold;
     font-size: 17px;
 }
+
 
 .detail-table td {
     border: 0px solid #ccc;
@@ -113,3 +115,4 @@ td>span {
 .styled-table tbody tr:last-of-type {
     border-bottom: 2px solid $ORCOLOUR;
 }
+*/
